@@ -1,4 +1,5 @@
-## 一键部署 Gost(ss+mws) 到 heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNienows%2Fgost-heroku)
+## 一键部署 Gost(ss+mws) 到 heroku  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hearbe/goust)
 
 > 1. 服务端部署后，view查看，显示`404 page not found`，表示部署成功。
 
@@ -11,7 +12,7 @@
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
-> 5. 可通过cloudflare worker中转流量：
+> 5. 可通过cloudflare 中转流量：
 
 addEventListener(  
 
